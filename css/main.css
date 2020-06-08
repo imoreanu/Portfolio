@@ -54,9 +54,9 @@
       transform: translate3d(0, 0, 0); }
     .menu-branding .logo {
       width: 255px;
-      height: 260px;
-      background: url("../img/logo.png");
-      border-radius: 50%; }
+      height: 256px;
+      background: url("../img/logo-2.png");
+      border-radius: 70%; }
   .menu .nav-item {
     transform: translate3d(600px, 0, 0);
     transition: all 0.5s ease-out; }
