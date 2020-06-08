@@ -61,7 +61,7 @@
 
     &-nav {
         margin: 0;
-        padding: o;
+        padding: 0;
         background: darken($primary-color, 5);
         list-style: none;
         transform: translate3d(0, -100%, 0);
@@ -87,7 +87,7 @@
         .logo {
             width: 255px;
             height: 260px;
-            background: url('../img/logo.png');
+            background: url('../img/logo-2.png');
             border-radius: 50%;
             border: $secondary-color 5px solid;
         }
