@@ -76,4 +76,15 @@
     .projects {
         grid-template-columns: 1fr;
     }
+
+    main#contact h1 {
+        font-size: 4rem;
+        
+    }
+
+    .boxes {
+        box-sizing: border-box;
+        padding: 2rem 3rem;
+    }
 }
+
